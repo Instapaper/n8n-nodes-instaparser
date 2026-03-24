@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-instaparser",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Miscellaneous"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://www.instaparser.com/docs"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://www.instaparser.com/docs"
+			}
+		]
+	}
+}
