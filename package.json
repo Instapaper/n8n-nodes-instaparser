@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-instaparser",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Instaparser API integration for n8n",
     "license": "MIT",
     "homepage": "https://instaparser.com",
@@ -17,14 +17,14 @@
         "type": "git",
         "url": "https://github.com/Instapaper/n8n-nodes-instaparser.git"
     },
-   "scripts": {
-		"build": "n8n-node build",
-		"build:watch": "tsc --watch",
-		"dev": "n8n-node dev",
-		"lint": "n8n-node lint",
+    "scripts": {
+        "build": "n8n-node build",
+        "build:watch": "tsc --watch",
+        "dev": "n8n-node dev",
+        "lint": "n8n-node lint",
         "lint:fix": "n8n-node lint --fix",
-		"release": "n8n-node release",
-		"prepublishOnly": "n8n-node prerelease"
+        "release": "n8n-node release",
+        "prepublishOnly": "n8n-node prerelease"
     },
     "publishConfig": {
         "access": "public"
