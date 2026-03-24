@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-instaparser",
-    "version": "0.1.2",
+    "version": "1.0.0",
     "description": "Instaparser API integration for n8n",
     "license": "MIT",
     "homepage": "https://instaparser.com",
